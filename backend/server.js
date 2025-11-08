@@ -18,7 +18,11 @@ connectCloudinary()
 
 //middleware
 app.use(express.json())
-app.use(cors())
+app.use(cors({
+    origin: "https://ecommerce-three-gray-53.vercel.app",
+    credentials: true
+}));
+app.use(express.json())
 
 
 //api endpoints
