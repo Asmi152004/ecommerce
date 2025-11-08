@@ -8,7 +8,7 @@ import Sidebar from "./components/Sidebar";
 import Login from "./components/Login";
 import { ToastContainer } from 'react-toastify';
 
-export const backendUrl = "http://localhost:5003"
+export const backendUrl = "https://ecommerce-ejyy.onrender.com"
 export const currency = "₹"
 
 
