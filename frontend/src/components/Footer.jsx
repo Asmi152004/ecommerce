@@ -8,7 +8,7 @@ const Footer = () => {
         <div className=''>
           <img className='mb-5 w-32' src={assets.logo} alt='logo' />
           <p className='w-full md:w-2/3 text-gray-600'>
-            Stay connected with ShopEase Clothes for the latest trends, exclusive
+            Stay connected with Aura Clothes for the latest trends, exclusive
             offers, and style inspiration. Follow us on social media and
             subscribe to our newsletter for updates and special promotions.
           </p>
@@ -26,8 +26,8 @@ const Footer = () => {
         <div>
           <p className='font-medium text-xl mb-5'>GET IN TOUCH</p>
           <ul className='flex flex-col gap-1 text-gray-600'>
-            <li>9795XXXXXX</li>
-            <li>shopease@gmail.com</li>
+            <li>77********</li>
+            <li>Aura@gmail.com</li>
           </ul>
         </div>
       </div>
@@ -35,7 +35,7 @@ const Footer = () => {
         <hr />
         <p className='py-5 text-sm text-center'>
           {" "}
-          Copyright {new Date().getFullYear()} Shopease - All Right Reserved.{" "}
+          Myright {new Date().getFullYear()} Aura - All Right Reserved.{" "}
         </p>
       </div>
     </footer>

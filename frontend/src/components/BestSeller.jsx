@@ -15,7 +15,7 @@ const BestSeller = () => {
       <div className='text-center text-3xl py-8'>
         <Title text1={"BEST"} text2={"SELLERS"} />
         <p className='w-3/4 m-auto text-xs sm:text-sm md:text-base text-gray-600'>
-          Discover the best-selling fashion pieces at ShopEase Clothes, featuring
+          Discover the best-selling fashion pieces at Aura Clothes, featuring
           timeless styles loved by fashion enthusiasts everywhere.
         </p>
       </div>

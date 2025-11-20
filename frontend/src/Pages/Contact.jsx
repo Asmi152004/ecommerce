@@ -19,13 +19,13 @@ const Contact = () => {
         <div className='flex flex-col justify-between items-start gap-6'>
           <p className='font-semibold text-xl text-gray-600'>Our Store</p>
           <p className='text-gray-500'>
-           11/18 MG. Marg<br /> Civil lines Prayaraj 
+          <br/> Bhopal
           </p>
           <p className='text-gray-600'>
-            Tel:(0532) 98XXXX  <br /> Email: shopease@gmail.com
+            Tel:(0532) 98XXXX  <br /> Email: aura@gmail.com
           </p>
           <p className='font-semibold text-xl text-gray-600'>
-            Careers at ShopEase
+            Careers at Aura
           </p>
           <p className='text-gray-500'>
             Learn more about our teams and job openings.

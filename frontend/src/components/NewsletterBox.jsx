@@ -10,7 +10,7 @@ const NewsletterBox = () => {
       <p className='text-2xl font-medium text-gray-800'>Subscribe now & get 20% off!</p>
 
       <p className='text-gray-400 mt-3'>
-        Subscribe now to ShopEase Clothes and enjoy 20% off your first purchase!
+        Subscribe now to Aura Clothes and enjoy 20% off your first purchase!
       </p>
       <form onSubmit={haldleNewsletter} className='w-full sm:w-1/2 flex items-center gap-3 my-6 border pl-3 m-auto'>
         <input
