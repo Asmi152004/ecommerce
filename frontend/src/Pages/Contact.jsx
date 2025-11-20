@@ -19,10 +19,10 @@ const Contact = () => {
         <div className='flex flex-col justify-between items-start gap-6'>
           <p className='font-semibold text-xl text-gray-600'>Our Store</p>
           <p className='text-gray-500'>
-          <br/> Bhopal
+          <br/> Bhopal 
           </p>
           <p className='text-gray-600'>
-            Tel:77********  <br /> Email: aura@gmail.com
+            Tel:77********  <br /> Email: auraplus@gmail.com
           </p>
           <p className='font-semibold text-xl text-gray-600'>
             Careers at Aura
