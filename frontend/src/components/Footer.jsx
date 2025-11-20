@@ -10,7 +10,7 @@ const Footer = () => {
           <p className='w-full md:w-2/3 text-gray-600'>
             Stay connected with ShopEase Clothes for the latest trends, exclusive
             offers, and style inspiration. Follow us on social media and
-            subscribe to our newsletter for updates and special promotions.
+            subscribe to our newsletter for updates and  promotions.
           </p>
         </div>
         <div>
