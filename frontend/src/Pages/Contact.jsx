@@ -22,7 +22,7 @@ const Contact = () => {
           <br/> Bhopal
           </p>
           <p className='text-gray-600'>
-            Tel:(0532) 98XXXX  <br /> Email: aura@gmail.com
+            Tel:77********  <br /> Email: aura@gmail.com
           </p>
           <p className='font-semibold text-xl text-gray-600'>
             Careers at Aura
