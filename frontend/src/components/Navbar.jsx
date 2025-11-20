@@ -23,9 +23,7 @@ const Navbar = () => {
     return (
         <header>
             <nav className='flex items-center justify-between py-5 font-medium'>
-                <Link to='/'>
-                    <img className='w-36' src={assets.logo} alt='logo' />
-                </Link>
+                <h1>AURA</h1>
                 <ul className='hidden sm:flex text-sm gap-5 text-gray-700'>
                     <NavLink to='/' className='flex flex-col items-center gap-1'>
                         <p>HOME</p>
