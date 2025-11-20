@@ -22,10 +22,10 @@ const Contact = () => {
            11/18 MG. Marg<br /> Civil lines Prayaraj 
           </p>
           <p className='text-gray-600'>
-            Tel:(0532) 98XXXX  <br /> Email: shopease@gmail.com
+            Tel:98XXXX  <br /> Email: Aura@gmail.com
           </p>
           <p className='font-semibold text-xl text-gray-600'>
-            Careers at ShopEase
+            Careers at Aura
           </p>
           <p className='text-gray-500'>
             Learn more about our teams and job openings.
