@@ -8,7 +8,7 @@ export const ShopContext = createContext();
 const ShopContextProvider = (props)=>{
     const currency = "₹"
     const delivery_fee = 20; 
-    const backendUrl = 'https://ecommerce-ejyy.onrender.com';
+    const backendUrl = 'https://ecommerce-5dzc.onrender.com';
     const [search , setSearch] = useState('');
     const [showSearch, setShowSearch] = useState(false);
     const [cartItems, setCartItems] = useState({});
