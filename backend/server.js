@@ -20,7 +20,7 @@ const allowedOrigins = [
   "http://localhost:3000",
   "http://127.0.0.1:3000",
   "https://ecommerce-5dzc.onrender.com",
-  "https://ecommerce-h792.vercel.app/"
+  "https://ecommerce-h792.vercel.app"
 ];
 
 const corsOptions = {
