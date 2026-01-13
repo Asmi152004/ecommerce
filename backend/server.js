@@ -21,8 +21,7 @@ const allowedOrigins = [
   "http://127.0.0.1:3000",
   "https://ecommerce-5dzc.onrender.com",
   "https://ecommerce-h792.vercel.app",
-  "http://localhost:5174",
-  "https://ecommerce-5dzc.onrender.com/api/product/add"
+  "http://localhost:5174"
 ];
 
 const corsOptions = {
